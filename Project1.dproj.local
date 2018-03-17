@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/14 21:10:51.000.379,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 11:06:22.000.002,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/03 23:49:41.000.804,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:15.882,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:19.303,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:21.104,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:46.982,C:\Lives\Tira-Teima\Campo Blob\FormUnit1.dfm=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2018/03/16 20:11:46.982,C:\Lives\Tira-Teima\Campo Blob\FormUnit1.pas=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:49.355,C:\Lives\Tira-Teima\Campo Blob\WebModuleUnit1.dfm=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2018/03/16 20:11:49.355,C:\Lives\Tira-Teima\Campo Blob\WebModuleUnit1.pas=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:51.393,C:\Lives\Tira-Teima\Campo Blob\ServerMethodsUnit1.dfm=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2018/03/16 20:11:51.393,C:\Lives\Tira-Teima\Campo Blob\ServerMethodsUnit1.pas=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:11:55.371,C:\Lives\Tira-Teima\Campo Blob\Project1.dproj=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMac iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5" Android="0023109677"/>
+		<PmacOS iOSSimulator="_iossimulator_EE49F575-19A6-4C5C-9F8F-D11543B76CF7"/>
+	</ActiveMobileDevice>
+</BorlandProject>

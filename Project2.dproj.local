@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/03/16 20:23:42.205,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/03/16 20:25:30.359,C:\Lives\Tira-Teima\Campo Blob\Unit2.dfm=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/03/16 20:25:30.359,C:\Lives\Tira-Teima\Campo Blob\Unit2.pas=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/03/16 20:25:33.089,C:\Lives\Tira-Teima\Campo Blob\Project2.dproj=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/03/16 20:27:58.490,=C:\Lives\Tira-Teima\Campo Blob\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2018/03/16 20:27:59.649,=C:\Lives\Tira-Teima\Campo Blob\ClientModuleUnit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
